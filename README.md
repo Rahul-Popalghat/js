@@ -1,2 +1,1 @@
-# js
-js
+document.body.onload = ()=>{document.write("hello");}
