@@ -1,1 +1,3 @@
-document.body.onload = ()=>{document.write("hello");}
+document.body.onload = ()=> {
+alert("script linked success");
+document.write("hello");}
